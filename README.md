@@ -1,84 +1,44 @@
-# Project B -- Dynamic ticket pricing
+# Proyecto B · Precios dinámicos para un concierto
 
-A Powell five-element sequential-decision model for pricing seats on a single
-flight, with three policies (a fixed-price baseline, a linear Policy Function
-Approximation, and a Direct Lookahead Approximation), calibrated from real
-fare data and evaluated with common random numbers.
+Un promotor tiene 2,000 lugares y 60 días para venderlos. El dashboard de Streamlit compara tres decisiones diarias de precio en USD: mantener un precio fijo, aplicar una regla según las ventas (PFA) o planificar hasta el día del concierto (DLA). El escenario base abre a **USD 110** con planificación diaria. [Informe del proyecto](reports/Informe_Proyecto_B.pdf) · [Resultados del concierto](reports/report.md)
 
-See `reports/report.md` for the full write-up: model, calibration, results,
-and the recommendation. This README is just the "how to run it" half.
+## Abrir el dashboard
 
-## Project layout
-
-```
-src/ticket_pricing/
-  calibration.py     fit the model's parameters from data/itineraries_sample.csv
-  model.py            the Powell model: state, decision, exogenous info, transition, objective
-  simulator.py         gym-style step() environment + CRN episode/batch runner
-  tuning.py            policy search (max_theta F_bar(theta)) for baseline & PFA
-  evaluation.py        out-of-sample evaluation on >=500 CRN scenarios, CI/spread
-  policies/
-    baseline.py         fixed-price policy
-    pfa.py               linear Policy Function Approximation
-    dla.py               Direct Lookahead Approximation (deterministic MPC-style)
-dashboard/app.py      Streamlit dashboard (interactive version of the report's figures)
-scripts/run_experiment.py   reproduces every number and figure in the report
-notebooks/            exploratory data analysis (optional, for your own reference)
-tests/                 pytest sanity checks on the model and policies
-data/                  the fare sample + calibration.json (generated)
-reports/               results.json + the .png figures + report.md (generated / written)
-```
-
-## Setup
+Desde la raíz del proyecto, crear un entorno e instalar las dependencias una sola vez.
 
 ```bash
-python3 -m venv .venv && source .venv/bin/activate     # optional but recommended
-pip install -r requirements.txt
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
 ```
 
-## Reproduce everything
+En Windows, activar el entorno con `.venv\Scripts\activate`. Después, iniciar Streamlit con el entorno activo.
 
 ```bash
-# 1. (re)fit the calibration from the fare sample (already included in data/)
-python src/ticket_pricing/calibration.py
-
-# 2. tune both policies, evaluate all three, write reports/results.json + figures
-python scripts/run_experiment.py
-
-# 3. run the test suite
-pytest tests/ -q
-
-# 4. launch the interactive dashboard
 streamlit run dashboard/app.py
 ```
 
-## Data note
+## Qué mostrar
 
-`data/itineraries_sample.csv` is a ~1M-row sample (not the full 31 GB file)
-of Kaggle's `dilwong/flightprices` dataset, pulled directly from the
-compressed file's byte stream to avoid downloading the whole thing -- see
-the docstring at the top of `calibration.py` for exactly what came from the
-data versus what was assumed, and why.
+| Pestaña | Qué permite ver |
+| --- | --- |
+| **Calibration** | Tarifas observadas de Expedia para Atlanta–Boston. **Concert arrival-rate calibration** muestra el ajuste de llegadas a partir de cambios diarios de disponibilidad. |
+| **Evaluation (CRN)** | Ingreso, dispersión, intervalos y probabilidad de lleno de las tres políticas frente a los mismos 600 conciertos simulados. Incluye distribución de ingresos y sensibilidad al precio de referencia. |
+| **Episode trace** | Precio e inventario de un concierto, lado a lado. **Today's recommended price** permite consultar el precio que corresponde a un día e inventario concretos. |
 
-## The three policies, in one line each
+Para la demo, conservar los controles iniciales y abrir **Today's recommended price**. En el día 30, con referencia de USD 100 y 1,600 boletos disponibles, la recomendación es **USD 90**. Al cambiar únicamente el inventario a 1,100, sube a **USD 110**.
 
-- **Baseline (fixed price)**: one constant price for the whole horizon, tuned
-  by a 1-D grid search. The yardstick every other policy has to beat.
-- **PFA (linear)**: `price = theta_a + theta_b*scarcity_term + theta_c*time_term`,
-  evaluated directly from the state, no optimization at decision time. Tuned
-  by random search + local refinement (max_theta F_bar(theta), common random
-  numbers).
-- **DLA**: at every decision, solves a small deterministic (expected-value)
-  model of the rest of the horizon over a price grid, posts only that day's
-  price, and re-solves from scratch next period (model-predictive-control
-  pattern).
+## Datos y reproducción
 
-## Headline result (see report for the full discussion)
+La muestra incluida contiene 2,682 cotizaciones reales. La curva de tarifas muestra cómo varía el precio anunciado. Un segundo ajuste estima la forma temporal de las llegadas a partir de 1,149 pares de observaciones consecutivas de disponibilidad. El volumen del concierto y la disposición a pagar son supuestos editables. [Fuente original de Expedia en Kaggle](https://www.kaggle.com/datasets/dilwong/flightprices) · [Procedencia del extracto](data/procedencia.json)
 
-On the real-data calibration, the tuned baseline and the tuned PFA price
-schedule end up identical (PFA finds theta_b = theta_c = 0 is optimal) and
-DLA is statistically indistinguishable from both. Under a higher-demand
-sensitivity scenario, DLA pulls ahead because it can track the calibrated,
-non-monotonic WTP-vs-time curve, which the linear PFA cannot represent. The
-report explains why and gives the conditions under which the recommendation
-would change.
+Los datos de la ruta y los resultados base ya están incluidos. Desde la raíz, estos comandos reconstruyen el ajuste, las simulaciones y el PDF, y ejecutan las pruebas.
+
+```bash
+python scripts/calibrar.py
+python scripts/evaluar.py
+python scripts/informe.py
+python -m pytest -q
+```
+
+El simulador y las políticas del concierto están en [concierto.py](src/ticket_pricing/concierto.py). El informe y la calibración del ejercicio anterior con 10 asientos de avión se conservan como referencia histórica. [Informe del vuelo](reports/archivo/informe-vuelo.md) · [Resultados del vuelo](reports/results.json)

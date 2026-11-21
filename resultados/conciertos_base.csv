@@ -1,0 +1,1801 @@
+escenario,estrategia,ingreso_usd,boletos_sobrantes
+1,Precio fijo,219120.0,8
+2,Precio fijo,220000.0,0
+3,Precio fijo,218350.0,15
+4,Precio fijo,220000.0,0
+5,Precio fijo,220000.0,0
+6,Precio fijo,220000.0,0
+7,Precio fijo,218460.0,14
+8,Precio fijo,220000.0,0
+9,Precio fijo,220000.0,0
+10,Precio fijo,220000.0,0
+11,Precio fijo,220000.0,0
+12,Precio fijo,220000.0,0
+13,Precio fijo,220000.0,0
+14,Precio fijo,220000.0,0
+15,Precio fijo,220000.0,0
+16,Precio fijo,220000.0,0
+17,Precio fijo,220000.0,0
+18,Precio fijo,220000.0,0
+19,Precio fijo,220000.0,0
+20,Precio fijo,220000.0,0
+21,Precio fijo,220000.0,0
+22,Precio fijo,220000.0,0
+23,Precio fijo,220000.0,0
+24,Precio fijo,220000.0,0
+25,Precio fijo,220000.0,0
+26,Precio fijo,220000.0,0
+27,Precio fijo,219780.0,2
+28,Precio fijo,220000.0,0
+29,Precio fijo,220000.0,0
+30,Precio fijo,213290.0,61
+31,Precio fijo,216700.0,30
+32,Precio fijo,220000.0,0
+33,Precio fijo,220000.0,0
+34,Precio fijo,219010.0,9
+35,Precio fijo,220000.0,0
+36,Precio fijo,220000.0,0
+37,Precio fijo,220000.0,0
+38,Precio fijo,220000.0,0
+39,Precio fijo,220000.0,0
+40,Precio fijo,220000.0,0
+41,Precio fijo,220000.0,0
+42,Precio fijo,220000.0,0
+43,Precio fijo,220000.0,0
+44,Precio fijo,220000.0,0
+45,Precio fijo,216920.0,28
+46,Precio fijo,214830.0,47
+47,Precio fijo,220000.0,0
+48,Precio fijo,209440.0,96
+49,Precio fijo,220000.0,0
+50,Precio fijo,220000.0,0
+51,Precio fijo,220000.0,0
+52,Precio fijo,216920.0,28
+53,Precio fijo,220000.0,0
+54,Precio fijo,220000.0,0
+55,Precio fijo,220000.0,0
+56,Precio fijo,220000.0,0
+57,Precio fijo,220000.0,0
+58,Precio fijo,218790.0,11
+59,Precio fijo,217470.0,23
+60,Precio fijo,210980.0,82
+61,Precio fijo,214940.0,46
+62,Precio fijo,220000.0,0
+63,Precio fijo,220000.0,0
+64,Precio fijo,220000.0,0
+65,Precio fijo,220000.0,0
+66,Precio fijo,220000.0,0
+67,Precio fijo,220000.0,0
+68,Precio fijo,215710.0,39
+69,Precio fijo,213840.0,56
+70,Precio fijo,220000.0,0
+71,Precio fijo,220000.0,0
+72,Precio fijo,220000.0,0
+73,Precio fijo,220000.0,0
+74,Precio fijo,220000.0,0
+75,Precio fijo,220000.0,0
+76,Precio fijo,220000.0,0
+77,Precio fijo,220000.0,0
+78,Precio fijo,220000.0,0
+79,Precio fijo,220000.0,0
+80,Precio fijo,220000.0,0
+81,Precio fijo,220000.0,0
+82,Precio fijo,219780.0,2
+83,Precio fijo,220000.0,0
+84,Precio fijo,220000.0,0
+85,Precio fijo,220000.0,0
+86,Precio fijo,220000.0,0
+87,Precio fijo,215270.0,43
+88,Precio fijo,216370.0,33
+89,Precio fijo,220000.0,0
+90,Precio fijo,219450.0,5
+91,Precio fijo,219560.0,4
+92,Precio fijo,220000.0,0
+93,Precio fijo,217910.0,19
+94,Precio fijo,220000.0,0
+95,Precio fijo,220000.0,0
+96,Precio fijo,220000.0,0
+97,Precio fijo,220000.0,0
+98,Precio fijo,217470.0,23
+99,Precio fijo,213070.0,63
+100,Precio fijo,212630.0,67
+101,Precio fijo,220000.0,0
+102,Precio fijo,220000.0,0
+103,Precio fijo,213840.0,56
+104,Precio fijo,220000.0,0
+105,Precio fijo,220000.0,0
+106,Precio fijo,220000.0,0
+107,Precio fijo,220000.0,0
+108,Precio fijo,220000.0,0
+109,Precio fijo,220000.0,0
+110,Precio fijo,220000.0,0
+111,Precio fijo,216590.0,31
+112,Precio fijo,220000.0,0
+113,Precio fijo,220000.0,0
+114,Precio fijo,220000.0,0
+115,Precio fijo,220000.0,0
+116,Precio fijo,220000.0,0
+117,Precio fijo,220000.0,0
+118,Precio fijo,220000.0,0
+119,Precio fijo,215160.0,44
+120,Precio fijo,220000.0,0
+121,Precio fijo,217250.0,25
+122,Precio fijo,220000.0,0
+123,Precio fijo,216700.0,30
+124,Precio fijo,220000.0,0
+125,Precio fijo,220000.0,0
+126,Precio fijo,220000.0,0
+127,Precio fijo,220000.0,0
+128,Precio fijo,206360.0,124
+129,Precio fijo,220000.0,0
+130,Precio fijo,220000.0,0
+131,Precio fijo,220000.0,0
+132,Precio fijo,220000.0,0
+133,Precio fijo,220000.0,0
+134,Precio fijo,220000.0,0
+135,Precio fijo,220000.0,0
+136,Precio fijo,220000.0,0
+137,Precio fijo,220000.0,0
+138,Precio fijo,217030.0,27
+139,Precio fijo,220000.0,0
+140,Precio fijo,220000.0,0
+141,Precio fijo,220000.0,0
+142,Precio fijo,220000.0,0
+143,Precio fijo,218130.0,17
+144,Precio fijo,220000.0,0
+145,Precio fijo,220000.0,0
+146,Precio fijo,220000.0,0
+147,Precio fijo,220000.0,0
+148,Precio fijo,214390.0,51
+149,Precio fijo,220000.0,0
+150,Precio fijo,217910.0,19
+151,Precio fijo,220000.0,0
+152,Precio fijo,220000.0,0
+153,Precio fijo,220000.0,0
+154,Precio fijo,220000.0,0
+155,Precio fijo,220000.0,0
+156,Precio fijo,213620.0,58
+157,Precio fijo,220000.0,0
+158,Precio fijo,218350.0,15
+159,Precio fijo,219670.0,3
+160,Precio fijo,220000.0,0
+161,Precio fijo,220000.0,0
+162,Precio fijo,220000.0,0
+163,Precio fijo,219560.0,4
+164,Precio fijo,220000.0,0
+165,Precio fijo,220000.0,0
+166,Precio fijo,220000.0,0
+167,Precio fijo,220000.0,0
+168,Precio fijo,220000.0,0
+169,Precio fijo,220000.0,0
+170,Precio fijo,220000.0,0
+171,Precio fijo,220000.0,0
+172,Precio fijo,220000.0,0
+173,Precio fijo,220000.0,0
+174,Precio fijo,220000.0,0
+175,Precio fijo,220000.0,0
+176,Precio fijo,220000.0,0
+177,Precio fijo,220000.0,0
+178,Precio fijo,220000.0,0
+179,Precio fijo,211860.0,74
+180,Precio fijo,220000.0,0
+181,Precio fijo,220000.0,0
+182,Precio fijo,220000.0,0
+183,Precio fijo,220000.0,0
+184,Precio fijo,220000.0,0
+185,Precio fijo,220000.0,0
+186,Precio fijo,220000.0,0
+187,Precio fijo,220000.0,0
+188,Precio fijo,208780.0,102
+189,Precio fijo,220000.0,0
+190,Precio fijo,220000.0,0
+191,Precio fijo,220000.0,0
+192,Precio fijo,220000.0,0
+193,Precio fijo,220000.0,0
+194,Precio fijo,220000.0,0
+195,Precio fijo,220000.0,0
+196,Precio fijo,220000.0,0
+197,Precio fijo,220000.0,0
+198,Precio fijo,220000.0,0
+199,Precio fijo,212960.0,64
+200,Precio fijo,220000.0,0
+201,Precio fijo,220000.0,0
+202,Precio fijo,220000.0,0
+203,Precio fijo,220000.0,0
+204,Precio fijo,220000.0,0
+205,Precio fijo,220000.0,0
+206,Precio fijo,215160.0,44
+207,Precio fijo,220000.0,0
+208,Precio fijo,220000.0,0
+209,Precio fijo,220000.0,0
+210,Precio fijo,220000.0,0
+211,Precio fijo,220000.0,0
+212,Precio fijo,220000.0,0
+213,Precio fijo,220000.0,0
+214,Precio fijo,218240.0,16
+215,Precio fijo,220000.0,0
+216,Precio fijo,220000.0,0
+217,Precio fijo,220000.0,0
+218,Precio fijo,216590.0,31
+219,Precio fijo,220000.0,0
+220,Precio fijo,211200.0,80
+221,Precio fijo,217580.0,22
+222,Precio fijo,220000.0,0
+223,Precio fijo,220000.0,0
+224,Precio fijo,220000.0,0
+225,Precio fijo,216040.0,36
+226,Precio fijo,220000.0,0
+227,Precio fijo,220000.0,0
+228,Precio fijo,220000.0,0
+229,Precio fijo,220000.0,0
+230,Precio fijo,211090.0,81
+231,Precio fijo,219010.0,9
+232,Precio fijo,210870.0,83
+233,Precio fijo,220000.0,0
+234,Precio fijo,220000.0,0
+235,Precio fijo,220000.0,0
+236,Precio fijo,220000.0,0
+237,Precio fijo,220000.0,0
+238,Precio fijo,220000.0,0
+239,Precio fijo,220000.0,0
+240,Precio fijo,220000.0,0
+241,Precio fijo,220000.0,0
+242,Precio fijo,220000.0,0
+243,Precio fijo,220000.0,0
+244,Precio fijo,220000.0,0
+245,Precio fijo,220000.0,0
+246,Precio fijo,219230.0,7
+247,Precio fijo,220000.0,0
+248,Precio fijo,213290.0,61
+249,Precio fijo,220000.0,0
+250,Precio fijo,220000.0,0
+251,Precio fijo,220000.0,0
+252,Precio fijo,216370.0,33
+253,Precio fijo,220000.0,0
+254,Precio fijo,219230.0,7
+255,Precio fijo,220000.0,0
+256,Precio fijo,220000.0,0
+257,Precio fijo,220000.0,0
+258,Precio fijo,220000.0,0
+259,Precio fijo,220000.0,0
+260,Precio fijo,220000.0,0
+261,Precio fijo,220000.0,0
+262,Precio fijo,220000.0,0
+263,Precio fijo,220000.0,0
+264,Precio fijo,220000.0,0
+265,Precio fijo,220000.0,0
+266,Precio fijo,220000.0,0
+267,Precio fijo,216150.0,35
+268,Precio fijo,220000.0,0
+269,Precio fijo,218130.0,17
+270,Precio fijo,220000.0,0
+271,Precio fijo,220000.0,0
+272,Precio fijo,220000.0,0
+273,Precio fijo,220000.0,0
+274,Precio fijo,220000.0,0
+275,Precio fijo,220000.0,0
+276,Precio fijo,219890.0,1
+277,Precio fijo,213950.0,55
+278,Precio fijo,220000.0,0
+279,Precio fijo,220000.0,0
+280,Precio fijo,220000.0,0
+281,Precio fijo,220000.0,0
+282,Precio fijo,220000.0,0
+283,Precio fijo,216700.0,30
+284,Precio fijo,215160.0,44
+285,Precio fijo,220000.0,0
+286,Precio fijo,220000.0,0
+287,Precio fijo,220000.0,0
+288,Precio fijo,220000.0,0
+289,Precio fijo,220000.0,0
+290,Precio fijo,220000.0,0
+291,Precio fijo,220000.0,0
+292,Precio fijo,220000.0,0
+293,Precio fijo,220000.0,0
+294,Precio fijo,211750.0,75
+295,Precio fijo,220000.0,0
+296,Precio fijo,219120.0,8
+297,Precio fijo,220000.0,0
+298,Precio fijo,220000.0,0
+299,Precio fijo,218130.0,17
+300,Precio fijo,220000.0,0
+301,Precio fijo,218790.0,11
+302,Precio fijo,220000.0,0
+303,Precio fijo,216370.0,33
+304,Precio fijo,220000.0,0
+305,Precio fijo,220000.0,0
+306,Precio fijo,220000.0,0
+307,Precio fijo,220000.0,0
+308,Precio fijo,220000.0,0
+309,Precio fijo,220000.0,0
+310,Precio fijo,220000.0,0
+311,Precio fijo,220000.0,0
+312,Precio fijo,220000.0,0
+313,Precio fijo,220000.0,0
+314,Precio fijo,220000.0,0
+315,Precio fijo,220000.0,0
+316,Precio fijo,220000.0,0
+317,Precio fijo,220000.0,0
+318,Precio fijo,217030.0,27
+319,Precio fijo,218460.0,14
+320,Precio fijo,220000.0,0
+321,Precio fijo,220000.0,0
+322,Precio fijo,220000.0,0
+323,Precio fijo,220000.0,0
+324,Precio fijo,219010.0,9
+325,Precio fijo,220000.0,0
+326,Precio fijo,220000.0,0
+327,Precio fijo,220000.0,0
+328,Precio fijo,220000.0,0
+329,Precio fijo,220000.0,0
+330,Precio fijo,220000.0,0
+331,Precio fijo,217470.0,23
+332,Precio fijo,220000.0,0
+333,Precio fijo,220000.0,0
+334,Precio fijo,220000.0,0
+335,Precio fijo,220000.0,0
+336,Precio fijo,220000.0,0
+337,Precio fijo,215270.0,43
+338,Precio fijo,220000.0,0
+339,Precio fijo,220000.0,0
+340,Precio fijo,219450.0,5
+341,Precio fijo,217030.0,27
+342,Precio fijo,220000.0,0
+343,Precio fijo,220000.0,0
+344,Precio fijo,216700.0,30
+345,Precio fijo,220000.0,0
+346,Precio fijo,220000.0,0
+347,Precio fijo,220000.0,0
+348,Precio fijo,220000.0,0
+349,Precio fijo,220000.0,0
+350,Precio fijo,220000.0,0
+351,Precio fijo,217470.0,23
+352,Precio fijo,220000.0,0
+353,Precio fijo,220000.0,0
+354,Precio fijo,215160.0,44
+355,Precio fijo,220000.0,0
+356,Precio fijo,220000.0,0
+357,Precio fijo,213070.0,63
+358,Precio fijo,220000.0,0
+359,Precio fijo,215490.0,41
+360,Precio fijo,220000.0,0
+361,Precio fijo,220000.0,0
+362,Precio fijo,220000.0,0
+363,Precio fijo,220000.0,0
+364,Precio fijo,217360.0,24
+365,Precio fijo,219450.0,5
+366,Precio fijo,220000.0,0
+367,Precio fijo,220000.0,0
+368,Precio fijo,220000.0,0
+369,Precio fijo,220000.0,0
+370,Precio fijo,220000.0,0
+371,Precio fijo,215930.0,37
+372,Precio fijo,220000.0,0
+373,Precio fijo,220000.0,0
+374,Precio fijo,220000.0,0
+375,Precio fijo,220000.0,0
+376,Precio fijo,220000.0,0
+377,Precio fijo,220000.0,0
+378,Precio fijo,220000.0,0
+379,Precio fijo,209660.0,94
+380,Precio fijo,220000.0,0
+381,Precio fijo,220000.0,0
+382,Precio fijo,219560.0,4
+383,Precio fijo,220000.0,0
+384,Precio fijo,220000.0,0
+385,Precio fijo,220000.0,0
+386,Precio fijo,220000.0,0
+387,Precio fijo,220000.0,0
+388,Precio fijo,220000.0,0
+389,Precio fijo,220000.0,0
+390,Precio fijo,220000.0,0
+391,Precio fijo,219010.0,9
+392,Precio fijo,220000.0,0
+393,Precio fijo,217580.0,22
+394,Precio fijo,220000.0,0
+395,Precio fijo,220000.0,0
+396,Precio fijo,220000.0,0
+397,Precio fijo,220000.0,0
+398,Precio fijo,220000.0,0
+399,Precio fijo,220000.0,0
+400,Precio fijo,220000.0,0
+401,Precio fijo,220000.0,0
+402,Precio fijo,220000.0,0
+403,Precio fijo,220000.0,0
+404,Precio fijo,220000.0,0
+405,Precio fijo,220000.0,0
+406,Precio fijo,219010.0,9
+407,Precio fijo,218350.0,15
+408,Precio fijo,220000.0,0
+409,Precio fijo,214610.0,49
+410,Precio fijo,220000.0,0
+411,Precio fijo,220000.0,0
+412,Precio fijo,220000.0,0
+413,Precio fijo,200750.0,175
+414,Precio fijo,219340.0,6
+415,Precio fijo,219010.0,9
+416,Precio fijo,219560.0,4
+417,Precio fijo,220000.0,0
+418,Precio fijo,220000.0,0
+419,Precio fijo,220000.0,0
+420,Precio fijo,213730.0,57
+421,Precio fijo,220000.0,0
+422,Precio fijo,220000.0,0
+423,Precio fijo,220000.0,0
+424,Precio fijo,220000.0,0
+425,Precio fijo,220000.0,0
+426,Precio fijo,220000.0,0
+427,Precio fijo,220000.0,0
+428,Precio fijo,220000.0,0
+429,Precio fijo,220000.0,0
+430,Precio fijo,220000.0,0
+431,Precio fijo,220000.0,0
+432,Precio fijo,214060.0,54
+433,Precio fijo,220000.0,0
+434,Precio fijo,217690.0,21
+435,Precio fijo,215050.0,45
+436,Precio fijo,220000.0,0
+437,Precio fijo,219560.0,4
+438,Precio fijo,220000.0,0
+439,Precio fijo,220000.0,0
+440,Precio fijo,220000.0,0
+441,Precio fijo,220000.0,0
+442,Precio fijo,219890.0,1
+443,Precio fijo,216480.0,32
+444,Precio fijo,216370.0,33
+445,Precio fijo,209220.0,98
+446,Precio fijo,220000.0,0
+447,Precio fijo,220000.0,0
+448,Precio fijo,220000.0,0
+449,Precio fijo,220000.0,0
+450,Precio fijo,215270.0,43
+451,Precio fijo,220000.0,0
+452,Precio fijo,220000.0,0
+453,Precio fijo,220000.0,0
+454,Precio fijo,210210.0,89
+455,Precio fijo,220000.0,0
+456,Precio fijo,220000.0,0
+457,Precio fijo,220000.0,0
+458,Precio fijo,216040.0,36
+459,Precio fijo,220000.0,0
+460,Precio fijo,220000.0,0
+461,Precio fijo,220000.0,0
+462,Precio fijo,220000.0,0
+463,Precio fijo,220000.0,0
+464,Precio fijo,216590.0,31
+465,Precio fijo,220000.0,0
+466,Precio fijo,216810.0,29
+467,Precio fijo,220000.0,0
+468,Precio fijo,220000.0,0
+469,Precio fijo,220000.0,0
+470,Precio fijo,220000.0,0
+471,Precio fijo,217910.0,19
+472,Precio fijo,206360.0,124
+473,Precio fijo,220000.0,0
+474,Precio fijo,220000.0,0
+475,Precio fijo,220000.0,0
+476,Precio fijo,220000.0,0
+477,Precio fijo,220000.0,0
+478,Precio fijo,220000.0,0
+479,Precio fijo,220000.0,0
+480,Precio fijo,220000.0,0
+481,Precio fijo,220000.0,0
+482,Precio fijo,220000.0,0
+483,Precio fijo,220000.0,0
+484,Precio fijo,220000.0,0
+485,Precio fijo,220000.0,0
+486,Precio fijo,220000.0,0
+487,Precio fijo,220000.0,0
+488,Precio fijo,220000.0,0
+489,Precio fijo,215490.0,41
+490,Precio fijo,220000.0,0
+491,Precio fijo,220000.0,0
+492,Precio fijo,220000.0,0
+493,Precio fijo,220000.0,0
+494,Precio fijo,220000.0,0
+495,Precio fijo,220000.0,0
+496,Precio fijo,220000.0,0
+497,Precio fijo,220000.0,0
+498,Precio fijo,220000.0,0
+499,Precio fijo,217360.0,24
+500,Precio fijo,220000.0,0
+501,Precio fijo,220000.0,0
+502,Precio fijo,220000.0,0
+503,Precio fijo,220000.0,0
+504,Precio fijo,215600.0,40
+505,Precio fijo,220000.0,0
+506,Precio fijo,220000.0,0
+507,Precio fijo,215600.0,40
+508,Precio fijo,220000.0,0
+509,Precio fijo,220000.0,0
+510,Precio fijo,220000.0,0
+511,Precio fijo,220000.0,0
+512,Precio fijo,217580.0,22
+513,Precio fijo,220000.0,0
+514,Precio fijo,211090.0,81
+515,Precio fijo,220000.0,0
+516,Precio fijo,208450.0,105
+517,Precio fijo,220000.0,0
+518,Precio fijo,220000.0,0
+519,Precio fijo,219890.0,1
+520,Precio fijo,219450.0,5
+521,Precio fijo,220000.0,0
+522,Precio fijo,220000.0,0
+523,Precio fijo,217140.0,26
+524,Precio fijo,220000.0,0
+525,Precio fijo,220000.0,0
+526,Precio fijo,220000.0,0
+527,Precio fijo,216810.0,29
+528,Precio fijo,209330.0,97
+529,Precio fijo,220000.0,0
+530,Precio fijo,220000.0,0
+531,Precio fijo,220000.0,0
+532,Precio fijo,220000.0,0
+533,Precio fijo,220000.0,0
+534,Precio fijo,220000.0,0
+535,Precio fijo,220000.0,0
+536,Precio fijo,220000.0,0
+537,Precio fijo,220000.0,0
+538,Precio fijo,220000.0,0
+539,Precio fijo,220000.0,0
+540,Precio fijo,219670.0,3
+541,Precio fijo,220000.0,0
+542,Precio fijo,220000.0,0
+543,Precio fijo,220000.0,0
+544,Precio fijo,220000.0,0
+545,Precio fijo,220000.0,0
+546,Precio fijo,217580.0,22
+547,Precio fijo,220000.0,0
+548,Precio fijo,220000.0,0
+549,Precio fijo,220000.0,0
+550,Precio fijo,220000.0,0
+551,Precio fijo,220000.0,0
+552,Precio fijo,213070.0,63
+553,Precio fijo,220000.0,0
+554,Precio fijo,220000.0,0
+555,Precio fijo,220000.0,0
+556,Precio fijo,220000.0,0
+557,Precio fijo,219780.0,2
+558,Precio fijo,220000.0,0
+559,Precio fijo,220000.0,0
+560,Precio fijo,219340.0,6
+561,Precio fijo,220000.0,0
+562,Precio fijo,220000.0,0
+563,Precio fijo,220000.0,0
+564,Precio fijo,220000.0,0
+565,Precio fijo,218460.0,14
+566,Precio fijo,220000.0,0
+567,Precio fijo,215930.0,37
+568,Precio fijo,220000.0,0
+569,Precio fijo,220000.0,0
+570,Precio fijo,214390.0,51
+571,Precio fijo,220000.0,0
+572,Precio fijo,216920.0,28
+573,Precio fijo,220000.0,0
+574,Precio fijo,220000.0,0
+575,Precio fijo,220000.0,0
+576,Precio fijo,220000.0,0
+577,Precio fijo,213950.0,55
+578,Precio fijo,220000.0,0
+579,Precio fijo,220000.0,0
+580,Precio fijo,216920.0,28
+581,Precio fijo,220000.0,0
+582,Precio fijo,220000.0,0
+583,Precio fijo,213180.0,62
+584,Precio fijo,220000.0,0
+585,Precio fijo,211420.0,78
+586,Precio fijo,220000.0,0
+587,Precio fijo,220000.0,0
+588,Precio fijo,220000.0,0
+589,Precio fijo,220000.0,0
+590,Precio fijo,220000.0,0
+591,Precio fijo,210650.0,85
+592,Precio fijo,220000.0,0
+593,Precio fijo,220000.0,0
+594,Precio fijo,220000.0,0
+595,Precio fijo,220000.0,0
+596,Precio fijo,220000.0,0
+597,Precio fijo,215820.0,38
+598,Precio fijo,220000.0,0
+599,Precio fijo,220000.0,0
+600,Precio fijo,220000.0,0
+1,Regla de ventas,218250.0,5
+2,Regla de ventas,220790.0,0
+3,Regla de ventas,217280.0,17
+4,Regla de ventas,220630.0,0
+5,Regla de ventas,220880.0,0
+6,Regla de ventas,222710.0,0
+7,Regla de ventas,219770.0,1
+8,Regla de ventas,220350.0,0
+9,Regla de ventas,220530.0,0
+10,Regla de ventas,218050.0,0
+11,Regla de ventas,221450.0,0
+12,Regla de ventas,220950.0,0
+13,Regla de ventas,219700.0,0
+14,Regla de ventas,219320.0,5
+15,Regla de ventas,219570.0,0
+16,Regla de ventas,220370.0,0
+17,Regla de ventas,220860.0,0
+18,Regla de ventas,220210.0,0
+19,Regla de ventas,220180.0,0
+20,Regla de ventas,220640.0,0
+21,Regla de ventas,221430.0,0
+22,Regla de ventas,220500.0,0
+23,Regla de ventas,220050.0,0
+24,Regla de ventas,220710.0,0
+25,Regla de ventas,219820.0,0
+26,Regla de ventas,219680.0,0
+27,Regla de ventas,218190.0,0
+28,Regla de ventas,220860.0,0
+29,Regla de ventas,219520.0,0
+30,Regla de ventas,215230.0,15
+31,Regla de ventas,218020.0,6
+32,Regla de ventas,221770.0,0
+33,Regla de ventas,219080.0,7
+34,Regla de ventas,219010.0,9
+35,Regla de ventas,219880.0,0
+36,Regla de ventas,221120.0,0
+37,Regla de ventas,219250.0,0
+38,Regla de ventas,219930.0,0
+39,Regla de ventas,221080.0,0
+40,Regla de ventas,220970.0,0
+41,Regla de ventas,221140.0,0
+42,Regla de ventas,221390.0,0
+43,Regla de ventas,220590.0,0
+44,Regla de ventas,222140.0,0
+45,Regla de ventas,216700.0,25
+46,Regla de ventas,215940.0,13
+47,Regla de ventas,219060.0,0
+48,Regla de ventas,211780.0,25
+49,Regla de ventas,220440.0,0
+50,Regla de ventas,221280.0,0
+51,Regla de ventas,222170.0,0
+52,Regla de ventas,217220.0,0
+53,Regla de ventas,221750.0,0
+54,Regla de ventas,220460.0,0
+55,Regla de ventas,220550.0,0
+56,Regla de ventas,222160.0,0
+57,Regla de ventas,221180.0,0
+58,Regla de ventas,217900.0,14
+59,Regla de ventas,218410.0,0
+60,Regla de ventas,213460.0,28
+61,Regla de ventas,215940.0,12
+62,Regla de ventas,220080.0,0
+63,Regla de ventas,219560.0,0
+64,Regla de ventas,218820.0,0
+65,Regla de ventas,221040.0,0
+66,Regla de ventas,221130.0,0
+67,Regla de ventas,221070.0,0
+68,Regla de ventas,217060.0,8
+69,Regla de ventas,215810.0,21
+70,Regla de ventas,220120.0,0
+71,Regla de ventas,221300.0,0
+72,Regla de ventas,219510.0,0
+73,Regla de ventas,219740.0,5
+74,Regla de ventas,219590.0,0
+75,Regla de ventas,220720.0,0
+76,Regla de ventas,222650.0,0
+77,Regla de ventas,219180.0,0
+78,Regla de ventas,219100.0,0
+79,Regla de ventas,220130.0,0
+80,Regla de ventas,219430.0,0
+81,Regla de ventas,219470.0,0
+82,Regla de ventas,216910.0,10
+83,Regla de ventas,222270.0,0
+84,Regla de ventas,219990.0,0
+85,Regla de ventas,219920.0,0
+86,Regla de ventas,221310.0,0
+87,Regla de ventas,216790.0,14
+88,Regla de ventas,216750.0,0
+89,Regla de ventas,220350.0,0
+90,Regla de ventas,218510.0,2
+91,Regla de ventas,218140.0,2
+92,Regla de ventas,221200.0,0
+93,Regla de ventas,217150.0,10
+94,Regla de ventas,219350.0,0
+95,Regla de ventas,220360.0,0
+96,Regla de ventas,218810.0,7
+97,Regla de ventas,220380.0,0
+98,Regla de ventas,216780.0,0
+99,Regla de ventas,215460.0,13
+100,Regla de ventas,211470.0,51
+101,Regla de ventas,220570.0,0
+102,Regla de ventas,219470.0,0
+103,Regla de ventas,214200.0,23
+104,Regla de ventas,219800.0,0
+105,Regla de ventas,219910.0,0
+106,Regla de ventas,220400.0,0
+107,Regla de ventas,221190.0,0
+108,Regla de ventas,218820.0,2
+109,Regla de ventas,220230.0,0
+110,Regla de ventas,218880.0,0
+111,Regla de ventas,218340.0,4
+112,Regla de ventas,220970.0,0
+113,Regla de ventas,219850.0,0
+114,Regla de ventas,220600.0,0
+115,Regla de ventas,220240.0,0
+116,Regla de ventas,218580.0,0
+117,Regla de ventas,220230.0,0
+118,Regla de ventas,220340.0,0
+119,Regla de ventas,216810.0,0
+120,Regla de ventas,219950.0,0
+121,Regla de ventas,216720.0,21
+122,Regla de ventas,219860.0,0
+123,Regla de ventas,217250.0,16
+124,Regla de ventas,221470.0,0
+125,Regla de ventas,221450.0,0
+126,Regla de ventas,218510.0,0
+127,Regla de ventas,219430.0,0
+128,Regla de ventas,211590.0,29
+129,Regla de ventas,219180.0,0
+130,Regla de ventas,219650.0,0
+131,Regla de ventas,219160.0,0
+132,Regla de ventas,221100.0,0
+133,Regla de ventas,219250.0,0
+134,Regla de ventas,220260.0,0
+135,Regla de ventas,219430.0,0
+136,Regla de ventas,220650.0,0
+137,Regla de ventas,219790.0,0
+138,Regla de ventas,218320.0,5
+139,Regla de ventas,219430.0,0
+140,Regla de ventas,220690.0,0
+141,Regla de ventas,221610.0,0
+142,Regla de ventas,221270.0,0
+143,Regla de ventas,216870.0,6
+144,Regla de ventas,218720.0,0
+145,Regla de ventas,219680.0,0
+146,Regla de ventas,218660.0,0
+147,Regla de ventas,219810.0,0
+148,Regla de ventas,214780.0,27
+149,Regla de ventas,218380.0,0
+150,Regla de ventas,216010.0,10
+151,Regla de ventas,221260.0,0
+152,Regla de ventas,220220.0,0
+153,Regla de ventas,220980.0,0
+154,Regla de ventas,221990.0,0
+155,Regla de ventas,219130.0,0
+156,Regla de ventas,216520.0,0
+157,Regla de ventas,220610.0,0
+158,Regla de ventas,218840.0,0
+159,Regla de ventas,219670.0,3
+160,Regla de ventas,219690.0,0
+161,Regla de ventas,218750.0,0
+162,Regla de ventas,220850.0,0
+163,Regla de ventas,218450.0,3
+164,Regla de ventas,220080.0,0
+165,Regla de ventas,218600.0,0
+166,Regla de ventas,220910.0,0
+167,Regla de ventas,218860.0,5
+168,Regla de ventas,218930.0,0
+169,Regla de ventas,222130.0,0
+170,Regla de ventas,220350.0,0
+171,Regla de ventas,219580.0,0
+172,Regla de ventas,218640.0,0
+173,Regla de ventas,220710.0,0
+174,Regla de ventas,220920.0,0
+175,Regla de ventas,220100.0,0
+176,Regla de ventas,221230.0,0
+177,Regla de ventas,219560.0,0
+178,Regla de ventas,219880.0,0
+179,Regla de ventas,215000.0,11
+180,Regla de ventas,221560.0,0
+181,Regla de ventas,221340.0,0
+182,Regla de ventas,220170.0,0
+183,Regla de ventas,220830.0,0
+184,Regla de ventas,220540.0,0
+185,Regla de ventas,219860.0,0
+186,Regla de ventas,219860.0,0
+187,Regla de ventas,220360.0,0
+188,Regla de ventas,214280.0,13
+189,Regla de ventas,220940.0,0
+190,Regla de ventas,219020.0,0
+191,Regla de ventas,222160.0,0
+192,Regla de ventas,221590.0,0
+193,Regla de ventas,219230.0,0
+194,Regla de ventas,220590.0,0
+195,Regla de ventas,221560.0,0
+196,Regla de ventas,220000.0,0
+197,Regla de ventas,218660.0,0
+198,Regla de ventas,219290.0,0
+199,Regla de ventas,214870.0,15
+200,Regla de ventas,220480.0,0
+201,Regla de ventas,221300.0,0
+202,Regla de ventas,220190.0,0
+203,Regla de ventas,219920.0,0
+204,Regla de ventas,219920.0,0
+205,Regla de ventas,220370.0,0
+206,Regla de ventas,215480.0,13
+207,Regla de ventas,220470.0,0
+208,Regla de ventas,219600.0,6
+209,Regla de ventas,221160.0,0
+210,Regla de ventas,219460.0,0
+211,Regla de ventas,219300.0,0
+212,Regla de ventas,220930.0,0
+213,Regla de ventas,218520.0,0
+214,Regla de ventas,218460.0,2
+215,Regla de ventas,220650.0,0
+216,Regla de ventas,220290.0,0
+217,Regla de ventas,220250.0,0
+218,Regla de ventas,214720.0,19
+219,Regla de ventas,220660.0,0
+220,Regla de ventas,212280.0,36
+221,Regla de ventas,217770.0,4
+222,Regla de ventas,219110.0,0
+223,Regla de ventas,220950.0,0
+224,Regla de ventas,220380.0,0
+225,Regla de ventas,217330.0,3
+226,Regla de ventas,219500.0,2
+227,Regla de ventas,220160.0,4
+228,Regla de ventas,220060.0,0
+229,Regla de ventas,221270.0,0
+230,Regla de ventas,212150.0,50
+231,Regla de ventas,219080.0,5
+232,Regla de ventas,213200.0,19
+233,Regla de ventas,218110.0,0
+234,Regla de ventas,218600.0,0
+235,Regla de ventas,220470.0,0
+236,Regla de ventas,222000.0,0
+237,Regla de ventas,220120.0,0
+238,Regla de ventas,219790.0,0
+239,Regla de ventas,219340.0,0
+240,Regla de ventas,219200.0,0
+241,Regla de ventas,220380.0,0
+242,Regla de ventas,220500.0,0
+243,Regla de ventas,221000.0,0
+244,Regla de ventas,219900.0,0
+245,Regla de ventas,220710.0,0
+246,Regla de ventas,218090.0,4
+247,Regla de ventas,220900.0,0
+248,Regla de ventas,215350.0,9
+249,Regla de ventas,217830.0,0
+250,Regla de ventas,220990.0,0
+251,Regla de ventas,219500.0,0
+252,Regla de ventas,216650.0,13
+253,Regla de ventas,219060.0,0
+254,Regla de ventas,218500.0,3
+255,Regla de ventas,220760.0,0
+256,Regla de ventas,220740.0,0
+257,Regla de ventas,219900.0,0
+258,Regla de ventas,219770.0,0
+259,Regla de ventas,221910.0,0
+260,Regla de ventas,220290.0,0
+261,Regla de ventas,219510.0,7
+262,Regla de ventas,216820.0,0
+263,Regla de ventas,220260.0,0
+264,Regla de ventas,220070.0,0
+265,Regla de ventas,222040.0,0
+266,Regla de ventas,218750.0,0
+267,Regla de ventas,217850.0,2
+268,Regla de ventas,217610.0,0
+269,Regla de ventas,216430.0,25
+270,Regla de ventas,222220.0,0
+271,Regla de ventas,217290.0,0
+272,Regla de ventas,218150.0,0
+273,Regla de ventas,219560.0,0
+274,Regla de ventas,219130.0,0
+275,Regla de ventas,219370.0,2
+276,Regla de ventas,217510.0,0
+277,Regla de ventas,215110.0,13
+278,Regla de ventas,220260.0,0
+279,Regla de ventas,219980.0,0
+280,Regla de ventas,218630.0,0
+281,Regla de ventas,220600.0,0
+282,Regla de ventas,220530.0,0
+283,Regla de ventas,218520.0,4
+284,Regla de ventas,214790.0,26
+285,Regla de ventas,220420.0,0
+286,Regla de ventas,221800.0,0
+287,Regla de ventas,221050.0,0
+288,Regla de ventas,219180.0,0
+289,Regla de ventas,219970.0,0
+290,Regla de ventas,219040.0,10
+291,Regla de ventas,219490.0,0
+292,Regla de ventas,221890.0,0
+293,Regla de ventas,217330.0,0
+294,Regla de ventas,213790.0,42
+295,Regla de ventas,221310.0,0
+296,Regla de ventas,216420.0,0
+297,Regla de ventas,220730.0,0
+298,Regla de ventas,220180.0,0
+299,Regla de ventas,216560.0,15
+300,Regla de ventas,220810.0,0
+301,Regla de ventas,219050.0,4
+302,Regla de ventas,220020.0,0
+303,Regla de ventas,217400.0,16
+304,Regla de ventas,217780.0,0
+305,Regla de ventas,220910.0,0
+306,Regla de ventas,219800.0,0
+307,Regla de ventas,218700.0,5
+308,Regla de ventas,219840.0,0
+309,Regla de ventas,222550.0,0
+310,Regla de ventas,220340.0,0
+311,Regla de ventas,220180.0,0
+312,Regla de ventas,221540.0,0
+313,Regla de ventas,220780.0,0
+314,Regla de ventas,219650.0,0
+315,Regla de ventas,222060.0,0
+316,Regla de ventas,221060.0,0
+317,Regla de ventas,218280.0,9
+318,Regla de ventas,217620.0,5
+319,Regla de ventas,219030.0,5
+320,Regla de ventas,220360.0,0
+321,Regla de ventas,219510.0,0
+322,Regla de ventas,219350.0,0
+323,Regla de ventas,220400.0,0
+324,Regla de ventas,218180.0,0
+325,Regla de ventas,221330.0,0
+326,Regla de ventas,219210.0,9
+327,Regla de ventas,219030.0,0
+328,Regla de ventas,219510.0,0
+329,Regla de ventas,220840.0,0
+330,Regla de ventas,219230.0,0
+331,Regla de ventas,217230.0,11
+332,Regla de ventas,221080.0,0
+333,Regla de ventas,218050.0,0
+334,Regla de ventas,219580.0,0
+335,Regla de ventas,220240.0,0
+336,Regla de ventas,219410.0,0
+337,Regla de ventas,217500.0,12
+338,Regla de ventas,220030.0,0
+339,Regla de ventas,219990.0,0
+340,Regla de ventas,219520.0,3
+341,Regla de ventas,218320.0,3
+342,Regla de ventas,219430.0,0
+343,Regla de ventas,222640.0,0
+344,Regla de ventas,216260.0,20
+345,Regla de ventas,221870.0,0
+346,Regla de ventas,219750.0,0
+347,Regla de ventas,220910.0,0
+348,Regla de ventas,219650.0,0
+349,Regla de ventas,219950.0,0
+350,Regla de ventas,219390.0,0
+351,Regla de ventas,218180.0,0
+352,Regla de ventas,220310.0,0
+353,Regla de ventas,219830.0,0
+354,Regla de ventas,214830.0,16
+355,Regla de ventas,220240.0,0
+356,Regla de ventas,220180.0,0
+357,Regla de ventas,215790.0,9
+358,Regla de ventas,218810.0,0
+359,Regla de ventas,214890.0,24
+360,Regla de ventas,220410.0,0
+361,Regla de ventas,221650.0,0
+362,Regla de ventas,219390.0,0
+363,Regla de ventas,220520.0,0
+364,Regla de ventas,217650.0,10
+365,Regla de ventas,219080.0,0
+366,Regla de ventas,218690.0,0
+367,Regla de ventas,219200.0,4
+368,Regla de ventas,219940.0,0
+369,Regla de ventas,220950.0,0
+370,Regla de ventas,219920.0,0
+371,Regla de ventas,217700.0,8
+372,Regla de ventas,222050.0,0
+373,Regla de ventas,220500.0,0
+374,Regla de ventas,220760.0,0
+375,Regla de ventas,218700.0,0
+376,Regla de ventas,221200.0,0
+377,Regla de ventas,220600.0,0
+378,Regla de ventas,221060.0,0
+379,Regla de ventas,212390.0,33
+380,Regla de ventas,220490.0,0
+381,Regla de ventas,219010.0,0
+382,Regla de ventas,217970.0,0
+383,Regla de ventas,219090.0,8
+384,Regla de ventas,220840.0,0
+385,Regla de ventas,219190.0,0
+386,Regla de ventas,220500.0,0
+387,Regla de ventas,219610.0,0
+388,Regla de ventas,219910.0,0
+389,Regla de ventas,221330.0,0
+390,Regla de ventas,218850.0,0
+391,Regla de ventas,218720.0,2
+392,Regla de ventas,221080.0,0
+393,Regla de ventas,217920.0,0
+394,Regla de ventas,219840.0,0
+395,Regla de ventas,220040.0,0
+396,Regla de ventas,220740.0,0
+397,Regla de ventas,220100.0,0
+398,Regla de ventas,219830.0,0
+399,Regla de ventas,220030.0,0
+400,Regla de ventas,220530.0,0
+401,Regla de ventas,218850.0,0
+402,Regla de ventas,218870.0,0
+403,Regla de ventas,220970.0,0
+404,Regla de ventas,219070.0,0
+405,Regla de ventas,219400.0,0
+406,Regla de ventas,218790.0,2
+407,Regla de ventas,219050.0,1
+408,Regla de ventas,219810.0,0
+409,Regla de ventas,215150.0,16
+410,Regla de ventas,218940.0,0
+411,Regla de ventas,220410.0,0
+412,Regla de ventas,217660.0,0
+413,Regla de ventas,208230.0,33
+414,Regla de ventas,219360.0,0
+415,Regla de ventas,219120.0,0
+416,Regla de ventas,218510.0,0
+417,Regla de ventas,220600.0,0
+418,Regla de ventas,221040.0,0
+419,Regla de ventas,220420.0,0
+420,Regla de ventas,215010.0,25
+421,Regla de ventas,217400.0,0
+422,Regla de ventas,219070.0,0
+423,Regla de ventas,219200.0,0
+424,Regla de ventas,220700.0,0
+425,Regla de ventas,219810.0,0
+426,Regla de ventas,218510.0,0
+427,Regla de ventas,219240.0,0
+428,Regla de ventas,220440.0,0
+429,Regla de ventas,220190.0,0
+430,Regla de ventas,221050.0,0
+431,Regla de ventas,219360.0,0
+432,Regla de ventas,216010.0,6
+433,Regla de ventas,218960.0,0
+434,Regla de ventas,218470.0,7
+435,Regla de ventas,214340.0,33
+436,Regla de ventas,221330.0,0
+437,Regla de ventas,217640.0,1
+438,Regla de ventas,220460.0,0
+439,Regla de ventas,218800.0,0
+440,Regla de ventas,220290.0,0
+441,Regla de ventas,219380.0,0
+442,Regla de ventas,219090.0,7
+443,Regla de ventas,216880.0,0
+444,Regla de ventas,217810.0,4
+445,Regla de ventas,211890.0,28
+446,Regla de ventas,220800.0,0
+447,Regla de ventas,220180.0,0
+448,Regla de ventas,220190.0,0
+449,Regla de ventas,220950.0,0
+450,Regla de ventas,217480.0,12
+451,Regla de ventas,221230.0,0
+452,Regla de ventas,219090.0,0
+453,Regla de ventas,220470.0,0
+454,Regla de ventas,215460.0,5
+455,Regla de ventas,219440.0,0
+456,Regla de ventas,220230.0,0
+457,Regla de ventas,220410.0,0
+458,Regla de ventas,215920.0,21
+459,Regla de ventas,222460.0,0
+460,Regla de ventas,221600.0,0
+461,Regla de ventas,218720.0,0
+462,Regla de ventas,222210.0,0
+463,Regla de ventas,219930.0,0
+464,Regla de ventas,217500.0,13
+465,Regla de ventas,220280.0,0
+466,Regla de ventas,218310.0,0
+467,Regla de ventas,219670.0,0
+468,Regla de ventas,220400.0,0
+469,Regla de ventas,220430.0,0
+470,Regla de ventas,218140.0,0
+471,Regla de ventas,217670.0,6
+472,Regla de ventas,210050.0,39
+473,Regla de ventas,218690.0,0
+474,Regla de ventas,220680.0,0
+475,Regla de ventas,219110.0,0
+476,Regla de ventas,220790.0,0
+477,Regla de ventas,220740.0,0
+478,Regla de ventas,219510.0,0
+479,Regla de ventas,219530.0,0
+480,Regla de ventas,219890.0,0
+481,Regla de ventas,219830.0,0
+482,Regla de ventas,220660.0,0
+483,Regla de ventas,220280.0,0
+484,Regla de ventas,221310.0,0
+485,Regla de ventas,220930.0,0
+486,Regla de ventas,218690.0,0
+487,Regla de ventas,219580.0,0
+488,Regla de ventas,219390.0,0
+489,Regla de ventas,215680.0,2
+490,Regla de ventas,220540.0,0
+491,Regla de ventas,220370.0,0
+492,Regla de ventas,221040.0,0
+493,Regla de ventas,219280.0,7
+494,Regla de ventas,218700.0,0
+495,Regla de ventas,223050.0,0
+496,Regla de ventas,218260.0,0
+497,Regla de ventas,220870.0,0
+498,Regla de ventas,218340.0,0
+499,Regla de ventas,216740.0,5
+500,Regla de ventas,218570.0,0
+501,Regla de ventas,218660.0,0
+502,Regla de ventas,219750.0,0
+503,Regla de ventas,219670.0,0
+504,Regla de ventas,215720.0,25
+505,Regla de ventas,220020.0,0
+506,Regla de ventas,220860.0,0
+507,Regla de ventas,216140.0,21
+508,Regla de ventas,220640.0,0
+509,Regla de ventas,218980.0,5
+510,Regla de ventas,220610.0,0
+511,Regla de ventas,219080.0,0
+512,Regla de ventas,218220.0,0
+513,Regla de ventas,220780.0,0
+514,Regla de ventas,213650.0,30
+515,Regla de ventas,219830.0,0
+516,Regla de ventas,210840.0,30
+517,Regla de ventas,220190.0,0
+518,Regla de ventas,220300.0,0
+519,Regla de ventas,219110.0,7
+520,Regla de ventas,217340.0,0
+521,Regla de ventas,221880.0,0
+522,Regla de ventas,220970.0,0
+523,Regla de ventas,216630.0,15
+524,Regla de ventas,219460.0,0
+525,Regla de ventas,219110.0,0
+526,Regla de ventas,220460.0,0
+527,Regla de ventas,217670.0,11
+528,Regla de ventas,212670.0,30
+529,Regla de ventas,219450.0,0
+530,Regla de ventas,221460.0,0
+531,Regla de ventas,219730.0,0
+532,Regla de ventas,220540.0,0
+533,Regla de ventas,219520.0,0
+534,Regla de ventas,218790.0,0
+535,Regla de ventas,220110.0,0
+536,Regla de ventas,221200.0,0
+537,Regla de ventas,220720.0,0
+538,Regla de ventas,220380.0,0
+539,Regla de ventas,219520.0,0
+540,Regla de ventas,219460.0,0
+541,Regla de ventas,218280.0,0
+542,Regla de ventas,220830.0,0
+543,Regla de ventas,219670.0,0
+544,Regla de ventas,219150.0,0
+545,Regla de ventas,221480.0,0
+546,Regla de ventas,216660.0,10
+547,Regla de ventas,218560.0,0
+548,Regla de ventas,219880.0,0
+549,Regla de ventas,222290.0,0
+550,Regla de ventas,219390.0,0
+551,Regla de ventas,222920.0,0
+552,Regla de ventas,215340.0,24
+553,Regla de ventas,219070.0,0
+554,Regla de ventas,220460.0,0
+555,Regla de ventas,219960.0,0
+556,Regla de ventas,219470.0,0
+557,Regla de ventas,216470.0,0
+558,Regla de ventas,219410.0,0
+559,Regla de ventas,222020.0,0
+560,Regla de ventas,217390.0,0
+561,Regla de ventas,221160.0,0
+562,Regla de ventas,221430.0,0
+563,Regla de ventas,218130.0,0
+564,Regla de ventas,219530.0,0
+565,Regla de ventas,217950.0,8
+566,Regla de ventas,218940.0,0
+567,Regla de ventas,217300.0,3
+568,Regla de ventas,221640.0,0
+569,Regla de ventas,221160.0,0
+570,Regla de ventas,214950.0,29
+571,Regla de ventas,218480.0,0
+572,Regla de ventas,218380.0,1
+573,Regla de ventas,219980.0,0
+574,Regla de ventas,221060.0,0
+575,Regla de ventas,219560.0,0
+576,Regla de ventas,221310.0,0
+577,Regla de ventas,214290.0,35
+578,Regla de ventas,222620.0,0
+579,Regla de ventas,219880.0,0
+580,Regla de ventas,217580.0,4
+581,Regla de ventas,220680.0,0
+582,Regla de ventas,219780.0,0
+583,Regla de ventas,213260.0,43
+584,Regla de ventas,218800.0,0
+585,Regla de ventas,214020.0,26
+586,Regla de ventas,218430.0,2
+587,Regla de ventas,219210.0,0
+588,Regla de ventas,220260.0,0
+589,Regla de ventas,220600.0,0
+590,Regla de ventas,219190.0,0
+591,Regla de ventas,212230.0,36
+592,Regla de ventas,219770.0,0
+593,Regla de ventas,220330.0,0
+594,Regla de ventas,221650.0,0
+595,Regla de ventas,219830.0,0
+596,Regla de ventas,219550.0,0
+597,Regla de ventas,214150.0,35
+598,Regla de ventas,220400.0,0
+599,Regla de ventas,218820.0,0
+600,Regla de ventas,220340.0,0
+1,Planificación diaria,219120.0,8
+2,Planificación diaria,222600.0,0
+3,Planificación diaria,219020.0,4
+4,Planificación diaria,223920.0,0
+5,Planificación diaria,221870.0,0
+6,Planificación diaria,225620.0,1
+7,Planificación diaria,219440.0,0
+8,Planificación diaria,221950.0,0
+9,Planificación diaria,221870.0,0
+10,Planificación diaria,219610.0,6
+11,Planificación diaria,222080.0,9
+12,Planificación diaria,222950.0,0
+13,Planificación diaria,220360.0,3
+14,Planificación diaria,220470.0,2
+15,Planificación diaria,220630.0,0
+16,Planificación diaria,221020.0,4
+17,Planificación diaria,222580.0,0
+18,Planificación diaria,220670.0,5
+19,Planificación diaria,220600.0,0
+20,Planificación diaria,221830.0,0
+21,Planificación diaria,222930.0,0
+22,Planificación diaria,222660.0,0
+23,Planificación diaria,220670.0,0
+24,Planificación diaria,222250.0,3
+25,Planificación diaria,220260.0,0
+26,Planificación diaria,220590.0,3
+27,Planificación diaria,219780.0,2
+28,Planificación diaria,222870.0,0
+29,Planificación diaria,220670.0,0
+30,Planificación diaria,216450.0,9
+31,Planificación diaria,217880.0,0
+32,Planificación diaria,221670.0,0
+33,Planificación diaria,220000.0,0
+34,Planificación diaria,219260.0,0
+35,Planificación diaria,221940.0,0
+36,Planificación diaria,223030.0,0
+37,Planificación diaria,221080.0,1
+38,Planificación diaria,220680.0,0
+39,Planificación diaria,222260.0,0
+40,Planificación diaria,222760.0,0
+41,Planificación diaria,223940.0,0
+42,Planificación diaria,225810.0,0
+43,Planificación diaria,221010.0,7
+44,Planificación diaria,224330.0,0
+45,Planificación diaria,217660.0,15
+46,Planificación diaria,216660.0,0
+47,Planificación diaria,220110.0,2
+48,Planificación diaria,214120.0,11
+49,Planificación diaria,221340.0,0
+50,Planificación diaria,221850.0,0
+51,Planificación diaria,224500.0,0
+52,Planificación diaria,218030.0,2
+53,Planificación diaria,224360.0,0
+54,Planificación diaria,222240.0,2
+55,Planificación diaria,223280.0,0
+56,Planificación diaria,224150.0,4
+57,Planificación diaria,221930.0,0
+58,Planificación diaria,218780.0,0
+59,Planificación diaria,217990.0,9
+60,Planificación diaria,216900.0,0
+61,Planificación diaria,216910.0,0
+62,Planificación diaria,220980.0,1
+63,Planificación diaria,221220.0,0
+64,Planificación diaria,220780.0,0
+65,Planificación diaria,222110.0,0
+66,Planificación diaria,222980.0,0
+67,Planificación diaria,223470.0,0
+68,Planificación diaria,218160.0,0
+69,Planificación diaria,217450.0,0
+70,Planificación diaria,220600.0,10
+71,Planificación diaria,223410.0,3
+72,Planificación diaria,220350.0,0
+73,Planificación diaria,219740.0,5
+74,Planificación diaria,220260.0,1
+75,Planificación diaria,223280.0,0
+76,Planificación diaria,225810.0,0
+77,Planificación diaria,220970.0,0
+78,Planificación diaria,218950.0,18
+79,Planificación diaria,221200.0,2
+80,Planificación diaria,221530.0,0
+81,Planificación diaria,220180.0,0
+82,Planificación diaria,219430.0,0
+83,Planificación diaria,225240.0,1
+84,Planificación diaria,222800.0,0
+85,Planificación diaria,220360.0,0
+86,Planificación diaria,222780.0,0
+87,Planificación diaria,217750.0,0
+88,Planificación diaria,218250.0,0
+89,Planificación diaria,222070.0,0
+90,Planificación diaria,218600.0,0
+91,Planificación diaria,219430.0,0
+92,Planificación diaria,220780.0,0
+93,Planificación diaria,218110.0,7
+94,Planificación diaria,221930.0,0
+95,Planificación diaria,221950.0,0
+96,Planificación diaria,219840.0,4
+97,Planificación diaria,221350.0,0
+98,Planificación diaria,218770.0,0
+99,Planificación diaria,215800.0,14
+100,Planificación diaria,215700.0,16
+101,Planificación diaria,220020.0,0
+102,Planificación diaria,219920.0,1
+103,Planificación diaria,216560.0,5
+104,Planificación diaria,221950.0,0
+105,Planificación diaria,222900.0,0
+106,Planificación diaria,222540.0,4
+107,Planificación diaria,221970.0,0
+108,Planificación diaria,219900.0,4
+109,Planificación diaria,222190.0,0
+110,Planificación diaria,221960.0,0
+111,Planificación diaria,217960.0,0
+112,Planificación diaria,222380.0,0
+113,Planificación diaria,221880.0,0
+114,Planificación diaria,222090.0,3
+115,Planificación diaria,222430.0,0
+116,Planificación diaria,219640.0,6
+117,Planificación diaria,220780.0,0
+118,Planificación diaria,221210.0,0
+119,Planificación diaria,217310.0,0
+120,Planificación diaria,221070.0,1
+121,Planificación diaria,218220.0,0
+122,Planificación diaria,221150.0,0
+123,Planificación diaria,218060.0,3
+124,Planificación diaria,223110.0,0
+125,Planificación diaria,222620.0,4
+126,Planificación diaria,219720.0,0
+127,Planificación diaria,221290.0,0
+128,Planificación diaria,214120.0,2
+129,Planificación diaria,219880.0,7
+130,Planificación diaria,222500.0,0
+131,Planificación diaria,222330.0,1
+132,Planificación diaria,222520.0,0
+133,Planificación diaria,219760.0,5
+134,Planificación diaria,220170.0,6
+135,Planificación diaria,219760.0,5
+136,Planificación diaria,220990.0,0
+137,Planificación diaria,220690.0,0
+138,Planificación diaria,218740.0,0
+139,Planificación diaria,220670.0,0
+140,Planificación diaria,221870.0,0
+141,Planificación diaria,222950.0,0
+142,Planificación diaria,222180.0,4
+143,Planificación diaria,219210.0,2
+144,Planificación diaria,220370.0,0
+145,Planificación diaria,221870.0,0
+146,Planificación diaria,220050.0,2
+147,Planificación diaria,222250.0,0
+148,Planificación diaria,217060.0,3
+149,Planificación diaria,219780.0,3
+150,Planificación diaria,218610.0,0
+151,Planificación diaria,222360.0,10
+152,Planificación diaria,221930.0,0
+153,Planificación diaria,222090.0,0
+154,Planificación diaria,226070.0,0
+155,Planificación diaria,221000.0,0
+156,Planificación diaria,217360.0,0
+157,Planificación diaria,221120.0,7
+158,Planificación diaria,218720.0,0
+159,Planificación diaria,219620.0,0
+160,Planificación diaria,221610.0,0
+161,Planificación diaria,220940.0,0
+162,Planificación diaria,222190.0,0
+163,Planificación diaria,218430.0,17
+164,Planificación diaria,221010.0,0
+165,Planificación diaria,219670.0,12
+166,Planificación diaria,223010.0,0
+167,Planificación diaria,220030.0,3
+168,Planificación diaria,220000.0,0
+169,Planificación diaria,223360.0,0
+170,Planificación diaria,221320.0,0
+171,Planificación diaria,220740.0,0
+172,Planificación diaria,220380.0,0
+173,Planificación diaria,221840.0,2
+174,Planificación diaria,221650.0,10
+175,Planificación diaria,221790.0,1
+176,Planificación diaria,223340.0,0
+177,Planificación diaria,218720.0,0
+178,Planificación diaria,221990.0,0
+179,Planificación diaria,215520.0,5
+180,Planificación diaria,222490.0,9
+181,Planificación diaria,224260.0,0
+182,Planificación diaria,221970.0,0
+183,Planificación diaria,222120.0,2
+184,Planificación diaria,222550.0,1
+185,Planificación diaria,221790.0,0
+186,Planificación diaria,218850.0,13
+187,Planificación diaria,221260.0,0
+188,Planificación diaria,215160.0,13
+189,Planificación diaria,222960.0,0
+190,Planificación diaria,222090.0,0
+191,Planificación diaria,224660.0,4
+192,Planificación diaria,222020.0,0
+193,Planificación diaria,220000.0,0
+194,Planificación diaria,221060.0,0
+195,Planificación diaria,223000.0,0
+196,Planificación diaria,219750.0,0
+197,Planificación diaria,221130.0,0
+198,Planificación diaria,221370.0,0
+199,Planificación diaria,216730.0,0
+200,Planificación diaria,220490.0,7
+201,Planificación diaria,222080.0,3
+202,Planificación diaria,221210.0,0
+203,Planificación diaria,221250.0,0
+204,Planificación diaria,220490.0,0
+205,Planificación diaria,220990.0,9
+206,Planificación diaria,216520.0,0
+207,Planificación diaria,220010.0,9
+208,Planificación diaria,219670.0,0
+209,Planificación diaria,222600.0,0
+210,Planificación diaria,221000.0,1
+211,Planificación diaria,219350.0,8
+212,Planificación diaria,222540.0,0
+213,Planificación diaria,221360.0,0
+214,Planificación diaria,218750.0,0
+215,Planificación diaria,222370.0,0
+216,Planificación diaria,221530.0,0
+217,Planificación diaria,220580.0,0
+218,Planificación diaria,217490.0,0
+219,Planificación diaria,220790.0,0
+220,Planificación diaria,216330.0,2
+221,Planificación diaria,218780.0,0
+222,Planificación diaria,222460.0,0
+223,Planificación diaria,222400.0,0
+224,Planificación diaria,222620.0,0
+225,Planificación diaria,217460.0,6
+226,Planificación diaria,220490.0,2
+227,Planificación diaria,219790.0,8
+228,Planificación diaria,220870.0,0
+229,Planificación diaria,223670.0,4
+230,Planificación diaria,215210.0,4
+231,Planificación diaria,219420.0,0
+232,Planificación diaria,215090.0,0
+233,Planificación diaria,220290.0,0
+234,Planificación diaria,220000.0,0
+235,Planificación diaria,222640.0,0
+236,Planificación diaria,224120.0,0
+237,Planificación diaria,221880.0,0
+238,Planificación diaria,221230.0,0
+239,Planificación diaria,221460.0,0
+240,Planificación diaria,219740.0,0
+241,Planificación diaria,222960.0,0
+242,Planificación diaria,221060.0,9
+243,Planificación diaria,222290.0,0
+244,Planificación diaria,219600.0,14
+245,Planificación diaria,221580.0,4
+246,Planificación diaria,219230.0,7
+247,Planificación diaria,221450.0,0
+248,Planificación diaria,216810.0,0
+249,Planificación diaria,220940.0,2
+250,Planificación diaria,222500.0,0
+251,Planificación diaria,220330.0,0
+252,Planificación diaria,217540.0,0
+253,Planificación diaria,221400.0,0
+254,Planificación diaria,219440.0,0
+255,Planificación diaria,221470.0,0
+256,Planificación diaria,221900.0,0
+257,Planificación diaria,221370.0,0
+258,Planificación diaria,220170.0,4
+259,Planificación diaria,224030.0,0
+260,Planificación diaria,221630.0,3
+261,Planificación diaria,219780.0,5
+262,Planificación diaria,219340.0,0
+263,Planificación diaria,221050.0,1
+264,Planificación diaria,221460.0,0
+265,Planificación diaria,224260.0,0
+266,Planificación diaria,221020.0,0
+267,Planificación diaria,217840.0,0
+268,Planificación diaria,220080.0,0
+269,Planificación diaria,219330.0,0
+270,Planificación diaria,225050.0,0
+271,Planificación diaria,219510.0,7
+272,Planificación diaria,220680.0,0
+273,Planificación diaria,220780.0,0
+274,Planificación diaria,222410.0,0
+275,Planificación diaria,220000.0,0
+276,Planificación diaria,219890.0,1
+277,Planificación diaria,216460.0,1
+278,Planificación diaria,221290.0,6
+279,Planificación diaria,222210.0,0
+280,Planificación diaria,220330.0,0
+281,Planificación diaria,222730.0,0
+282,Planificación diaria,222690.0,0
+283,Planificación diaria,217690.0,0
+284,Planificación diaria,216380.0,14
+285,Planificación diaria,221030.0,0
+286,Planificación diaria,224010.0,0
+287,Planificación diaria,221090.0,9
+288,Planificación diaria,222050.0,12
+289,Planificación diaria,220310.0,5
+290,Planificación diaria,219950.0,7
+291,Planificación diaria,220330.0,0
+292,Planificación diaria,224320.0,0
+293,Planificación diaria,221570.0,0
+294,Planificación diaria,215020.0,22
+295,Planificación diaria,222930.0,0
+296,Planificación diaria,219410.0,0
+297,Planificación diaria,221470.0,0
+298,Planificación diaria,221950.0,0
+299,Planificación diaria,219060.0,3
+300,Planificación diaria,221940.0,0
+301,Planificación diaria,218210.0,13
+302,Planificación diaria,222350.0,0
+303,Planificación diaria,218110.0,0
+304,Planificación diaria,220290.0,0
+305,Planificación diaria,221480.0,0
+306,Planificación diaria,222320.0,0
+307,Planificación diaria,220190.0,0
+308,Planificación diaria,219900.0,7
+309,Planificación diaria,225150.0,0
+310,Planificación diaria,219980.0,0
+311,Planificación diaria,222300.0,0
+312,Planificación diaria,222840.0,5
+313,Planificación diaria,221870.0,0
+314,Planificación diaria,220320.0,13
+315,Planificación diaria,223960.0,7
+316,Planificación diaria,223470.0,2
+317,Planificación diaria,220430.0,4
+318,Planificación diaria,218720.0,0
+319,Planificación diaria,219410.0,0
+320,Planificación diaria,219590.0,0
+321,Planificación diaria,220940.0,0
+322,Planificación diaria,221440.0,0
+323,Planificación diaria,222140.0,0
+324,Planificación diaria,219360.0,0
+325,Planificación diaria,222510.0,1
+326,Planificación diaria,220330.0,0
+327,Planificación diaria,220290.0,0
+328,Planificación diaria,221430.0,0
+329,Planificación diaria,222030.0,0
+330,Planificación diaria,221090.0,0
+331,Planificación diaria,218020.0,4
+332,Planificación diaria,223550.0,0
+333,Planificación diaria,220310.0,0
+334,Planificación diaria,220290.0,3
+335,Planificación diaria,220590.0,2
+336,Planificación diaria,220670.0,0
+337,Planificación diaria,217150.0,0
+338,Planificación diaria,224080.0,0
+339,Planificación diaria,221990.0,0
+340,Planificación diaria,219450.0,5
+341,Planificación diaria,218760.0,0
+342,Planificación diaria,221420.0,0
+343,Planificación diaria,225170.0,0
+344,Planificación diaria,217970.0,7
+345,Planificación diaria,222040.0,1
+346,Planificación diaria,220860.0,0
+347,Planificación diaria,223070.0,3
+348,Planificación diaria,220410.0,0
+349,Planificación diaria,220240.0,4
+350,Planificación diaria,220000.0,0
+351,Planificación diaria,218290.0,0
+352,Planificación diaria,222470.0,0
+353,Planificación diaria,220560.0,0
+354,Planificación diaria,217250.0,4
+355,Planificación diaria,219920.0,0
+356,Planificación diaria,221060.0,0
+357,Planificación diaria,216630.0,0
+358,Planificación diaria,220300.0,0
+359,Planificación diaria,217560.0,7
+360,Planificación diaria,221920.0,3
+361,Planificación diaria,222130.0,0
+362,Planificación diaria,220410.0,0
+363,Planificación diaria,221820.0,7
+364,Planificación diaria,218320.0,10
+365,Planificación diaria,219450.0,0
+366,Planificación diaria,220280.0,0
+367,Planificación diaria,219850.0,2
+368,Planificación diaria,220400.0,2
+369,Planificación diaria,222290.0,0
+370,Planificación diaria,221860.0,0
+371,Planificación diaria,217980.0,8
+372,Planificación diaria,223560.0,5
+373,Planificación diaria,221450.0,0
+374,Planificación diaria,221610.0,2
+375,Planificación diaria,222450.0,0
+376,Planificación diaria,220750.0,13
+377,Planificación diaria,220930.0,3
+378,Planificación diaria,221690.0,0
+379,Planificación diaria,215260.0,0
+380,Planificación diaria,222170.0,0
+381,Planificación diaria,221920.0,0
+382,Planificación diaria,219560.0,4
+383,Planificación diaria,218780.0,14
+384,Planificación diaria,222430.0,0
+385,Planificación diaria,219690.0,0
+386,Planificación diaria,221270.0,2
+387,Planificación diaria,221410.0,0
+388,Planificación diaria,220420.0,0
+389,Planificación diaria,222570.0,0
+390,Planificación diaria,219700.0,0
+391,Planificación diaria,219380.0,0
+392,Planificación diaria,222650.0,0
+393,Planificación diaria,218790.0,0
+394,Planificación diaria,220110.0,0
+395,Planificación diaria,220650.0,0
+396,Planificación diaria,221340.0,0
+397,Planificación diaria,221040.0,0
+398,Planificación diaria,221870.0,0
+399,Planificación diaria,221030.0,0
+400,Planificación diaria,222330.0,0
+401,Planificación diaria,221290.0,0
+402,Planificación diaria,220850.0,1
+403,Planificación diaria,222140.0,5
+404,Planificación diaria,221320.0,0
+405,Planificación diaria,222140.0,0
+406,Planificación diaria,218680.0,5
+407,Planificación diaria,217910.0,17
+408,Planificación diaria,222180.0,5
+409,Planificación diaria,216750.0,2
+410,Planificación diaria,220280.0,0
+411,Planificación diaria,221940.0,0
+412,Planificación diaria,219390.0,0
+413,Planificación diaria,211610.0,1
+414,Planificación diaria,219380.0,0
+415,Planificación diaria,219110.0,2
+416,Planificación diaria,219210.0,0
+417,Planificación diaria,220820.0,0
+418,Planificación diaria,222690.0,0
+419,Planificación diaria,221340.0,4
+420,Planificación diaria,215920.0,6
+421,Planificación diaria,220230.0,1
+422,Planificación diaria,219010.0,11
+423,Planificación diaria,222430.0,5
+424,Planificación diaria,220270.0,7
+425,Planificación diaria,221360.0,0
+426,Planificación diaria,219440.0,0
+427,Planificación diaria,219820.0,10
+428,Planificación diaria,221170.0,1
+429,Planificación diaria,221710.0,0
+430,Planificación diaria,222920.0,0
+431,Planificación diaria,220820.0,0
+432,Planificación diaria,216860.0,0
+433,Planificación diaria,220220.0,1
+434,Planificación diaria,218710.0,7
+435,Planificación diaria,217400.0,9
+436,Planificación diaria,223460.0,0
+437,Planificación diaria,219560.0,4
+438,Planificación diaria,221220.0,0
+439,Planificación diaria,221140.0,0
+440,Planificación diaria,222050.0,0
+441,Planificación diaria,220570.0,3
+442,Planificación diaria,219890.0,1
+443,Planificación diaria,217530.0,0
+444,Planificación diaria,217570.0,12
+445,Planificación diaria,214740.0,9
+446,Planificación diaria,223220.0,0
+447,Planificación diaria,220090.0,19
+448,Planificación diaria,221660.0,1
+449,Planificación diaria,221840.0,0
+450,Planificación diaria,217080.0,0
+451,Planificación diaria,223580.0,0
+452,Planificación diaria,220000.0,0
+453,Planificación diaria,221450.0,0
+454,Planificación diaria,215690.0,4
+455,Planificación diaria,221430.0,0
+456,Planificación diaria,221630.0,5
+457,Planificación diaria,222490.0,0
+458,Planificación diaria,218010.0,3
+459,Planificación diaria,225760.0,0
+460,Planificación diaria,222990.0,1
+461,Planificación diaria,220350.0,0
+462,Planificación diaria,225480.0,0
+463,Planificación diaria,222030.0,0
+464,Planificación diaria,217570.0,12
+465,Planificación diaria,220620.0,0
+466,Planificación diaria,218650.0,1
+467,Planificación diaria,220810.0,0
+468,Planificación diaria,221440.0,0
+469,Planificación diaria,221990.0,0
+470,Planificación diaria,220680.0,0
+471,Planificación diaria,219030.0,3
+472,Planificación diaria,213460.0,13
+473,Planificación diaria,220000.0,0
+474,Planificación diaria,222000.0,0
+475,Planificación diaria,220640.0,0
+476,Planificación diaria,222070.0,0
+477,Planificación diaria,223320.0,0
+478,Planificación diaria,220660.0,0
+479,Planificación diaria,219800.0,0
+480,Planificación diaria,222760.0,0
+481,Planificación diaria,221820.0,0
+482,Planificación diaria,222020.0,0
+483,Planificación diaria,222020.0,0
+484,Planificación diaria,224830.0,5
+485,Planificación diaria,222430.0,0
+486,Planificación diaria,220000.0,0
+487,Planificación diaria,220960.0,1
+488,Planificación diaria,221420.0,0
+489,Planificación diaria,216830.0,13
+490,Planificación diaria,221430.0,3
+491,Planificación diaria,220750.0,10
+492,Planificación diaria,222740.0,0
+493,Planificación diaria,219850.0,4
+494,Planificación diaria,220470.0,0
+495,Planificación diaria,226590.0,0
+496,Planificación diaria,220040.0,6
+497,Planificación diaria,220670.0,6
+498,Planificación diaria,220680.0,0
+499,Planificación diaria,218270.0,5
+500,Planificación diaria,219570.0,7
+501,Planificación diaria,220460.0,0
+502,Planificación diaria,221030.0,0
+503,Planificación diaria,220170.0,5
+504,Planificación diaria,217800.0,2
+505,Planificación diaria,221410.0,0
+506,Planificación diaria,222670.0,1
+507,Planificación diaria,217330.0,0
+508,Planificación diaria,222840.0,0
+509,Planificación diaria,220000.0,0
+510,Planificación diaria,221380.0,0
+511,Planificación diaria,220730.0,0
+512,Planificación diaria,218270.0,0
+513,Planificación diaria,222060.0,0
+514,Planificación diaria,215600.0,0
+515,Planificación diaria,222080.0,0
+516,Planificación diaria,214760.0,0
+517,Planificación diaria,222710.0,0
+518,Planificación diaria,221490.0,0
+519,Planificación diaria,219890.0,1
+520,Planificación diaria,217570.0,0
+521,Planificación diaria,224920.0,0
+522,Planificación diaria,220140.0,12
+523,Planificación diaria,218290.0,5
+524,Planificación diaria,219710.0,0
+525,Planificación diaria,220000.0,0
+526,Planificación diaria,221490.0,0
+527,Planificación diaria,218800.0,0
+528,Planificación diaria,215540.0,2
+529,Planificación diaria,221400.0,0
+530,Planificación diaria,223590.0,0
+531,Planificación diaria,221260.0,0
+532,Planificación diaria,222460.0,0
+533,Planificación diaria,219770.0,5
+534,Planificación diaria,219100.0,0
+535,Planificación diaria,220900.0,0
+536,Planificación diaria,222220.0,4
+537,Planificación diaria,223000.0,2
+538,Planificación diaria,220090.0,5
+539,Planificación diaria,221530.0,3
+540,Planificación diaria,219390.0,0
+541,Planificación diaria,219440.0,8
+542,Planificación diaria,222130.0,0
+543,Planificación diaria,221360.0,0
+544,Planificación diaria,220400.0,0
+545,Planificación diaria,223500.0,0
+546,Planificación diaria,218250.0,0
+547,Planificación diaria,220000.0,0
+548,Planificación diaria,221590.0,2
+549,Planificación diaria,224580.0,0
+550,Planificación diaria,220140.0,0
+551,Planificación diaria,225510.0,0
+552,Planificación diaria,217190.0,2
+553,Planificación diaria,220730.0,0
+554,Planificación diaria,223730.0,0
+555,Planificación diaria,220770.0,0
+556,Planificación diaria,221140.0,6
+557,Planificación diaria,218840.0,0
+558,Planificación diaria,220000.0,0
+559,Planificación diaria,224950.0,0
+560,Planificación diaria,219280.0,0
+561,Planificación diaria,222260.0,0
+562,Planificación diaria,222570.0,3
+563,Planificación diaria,220000.0,0
+564,Planificación diaria,220000.0,0
+565,Planificación diaria,218820.0,0
+566,Planificación diaria,220480.0,0
+567,Planificación diaria,217610.0,0
+568,Planificación diaria,222980.0,3
+569,Planificación diaria,222390.0,0
+570,Planificación diaria,216760.0,0
+571,Planificación diaria,221540.0,0
+572,Planificación diaria,218030.0,0
+573,Planificación diaria,221040.0,0
+574,Planificación diaria,222190.0,0
+575,Planificación diaria,221030.0,0
+576,Planificación diaria,223840.0,0
+577,Planificación diaria,217050.0,0
+578,Planificación diaria,225550.0,0
+579,Planificación diaria,220740.0,0
+580,Planificación diaria,218470.0,2
+581,Planificación diaria,222070.0,6
+582,Planificación diaria,220270.0,0
+583,Planificación diaria,216850.0,1
+584,Planificación diaria,219010.0,12
+585,Planificación diaria,216320.0,0
+586,Planificación diaria,219700.0,0
+587,Planificación diaria,220780.0,0
+588,Planificación diaria,220440.0,0
+589,Planificación diaria,222990.0,0
+590,Planificación diaria,220500.0,0
+591,Planificación diaria,216040.0,8
+592,Planificación diaria,220520.0,4
+593,Planificación diaria,220330.0,0
+594,Planificación diaria,222640.0,0
+595,Planificación diaria,221820.0,0
+596,Planificación diaria,221280.0,0
+597,Planificación diaria,216900.0,14
+598,Planificación diaria,221820.0,0
+599,Planificación diaria,218700.0,19
+600,Planificación diaria,221870.0,0

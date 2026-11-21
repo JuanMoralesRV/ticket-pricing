@@ -1,0 +1,2 @@
+# Keep the downloadable data sample byte-for-byte reproducible on every platform.
+data/ATL_BOS.csv -text whitespace=cr-at-eol

@@ -1,0 +1,13 @@
+{
+  "source": "https://www.kaggle.com/datasets/dilwong/flightprices",
+  "bytes": 134217728,
+  "sha256_prefix": "cfee8cc95d67a93bbbfd16138fa75cc75783bd1489cad2fb903383c28cb4de02",
+  "complete_rows_scanned": 1868861,
+  "route_rows_by_search_date": {
+    "2022-04-16": 110,
+    "2022-04-17": 772,
+    "2022-04-18": 651,
+    "2022-04-19": 781,
+    "2022-04-20": 368
+  }
+}
