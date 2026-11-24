@@ -41,4 +41,4 @@ python scripts/informe.py
 python -m pytest -q
 ```
 
-El simulador y las políticas del concierto están en [concierto.py](src/ticket_pricing/concierto.py). El informe y la calibración del ejercicio anterior con 10 asientos de avión se conservan como referencia histórica. [Informe del vuelo](reports/archivo/informe-vuelo.md) · [Resultados del vuelo](reports/results.json)
+El simulador y las políticas del concierto están en [concierto.py](src/ticket_pricing/concierto.py).
